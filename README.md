@@ -11,7 +11,7 @@ The application is designed for people who go to the gym to improve their perfor
 - MMA
 - Karate
 - Tennis
-- Ballet
+- Swimming
 
 Each user has a sport-specific workout roadmap stored in the application.
 
